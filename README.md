@@ -1,6 +1,6 @@
 # Flappy_Bird
 # What does it do?
-- The game is a recreation of the famous Flappy Bird mobile game from 2014 using pygame loop.
+- The game is a recreation of the famous Flappy Bird mobile game from 2014 using pygame loop
 # How does it work?
 - The game runs on a continuous loop after it starts
 - It functions exactly like the traditional flappy bird game when it came out
